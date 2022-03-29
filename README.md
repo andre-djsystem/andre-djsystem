@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-ferreira-de-moraes/
+![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-ferreira-de-moraes/)
 ![](https://visitor-badge.glitch.me/badge?page_id=andre-djsystem)
 
 <!--
