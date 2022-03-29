@@ -1,5 +1,5 @@
-![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andr%C3%A9-ferreira-de-moraes/)
-![](https://visitor-badge.glitch.me/badge?page_id=andre-djsystem)
+<a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-de-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<img src="https://visitor-badge.glitch.me/badge?page_id=andre-djsystem">
 
 <!--
 **andre-djsystem/andre-djsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
