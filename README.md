@@ -3,6 +3,11 @@
 
 <img src="https://visitor-badge.glitch.me/badge?page_id=andre-djsystem">
 
+### :octocat: Statistics
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andre-djsystem)<br>
+![github stats](https://github-readme-stats.vercel.app/api?username=andre-djsystem&show_icons=true&hide_title=true)<br>
+![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-djsystem&langs_count=10&layout=compact)
+
 <!--
 **andre-djsystem/andre-djsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
