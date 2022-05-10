@@ -7,9 +7,9 @@
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andre-djsystem)<br>
 ![github stats](https://github-readme-stats.vercel.app/api?username=andre-djsystem&show_icons=true&hide_title=true)<br>
 ![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-djsystem&langs_count=10&layout=compact)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre-djsystem)
 
 <!--
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andre-djsystem)
 **andre-djsystem/andre-djsystem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
