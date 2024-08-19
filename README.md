@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-de-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=andre-djsystem">
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandre-djsystem&label=Visitantes&countColor=%23263759)
 
 ### :octocat: Statistics
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=andre-djsystem)<br>
