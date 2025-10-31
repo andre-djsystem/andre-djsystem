@@ -1,7 +1,6 @@
 <a href="https://www.linkedin.com/in/andr%C3%A9-ferreira-de-moraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 
-![](https://img.shields.io/badge/-Medium-fa6132?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@andrefmoraes)
-
+<a href="https://medium.com/@andrefmoraes" target="_blank"><img src="https://img.shields.io/badge/-Medium-fa6132?style=for-the-badge&logo=Medium&logoColor=white" target="_blank"></a>  
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fandre-djsystem&label=Visitantes&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fandre-djsystem)
 
